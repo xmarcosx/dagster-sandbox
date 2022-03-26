@@ -24,3 +24,6 @@ asset_group = AssetGroup(
     }
 )
 
+
+asset_job = asset_group.build_job(name="my_asset_job")
+
