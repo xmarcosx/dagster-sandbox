@@ -9,6 +9,7 @@ python = "^3.9"
 dagster = "^0.14.6"
 dagit = "^0.14.6"
 pandas = "^1.4.1"
+dagster-gcp = "^0.14.6"
 
 [tool.poetry.dev-dependencies]
 
