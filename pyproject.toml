@@ -12,6 +12,8 @@ pandas = "^1.4.1"
 dagster-gcp = "^0.14.6"
 black = "^22.1.0"
 tenacity = "^8.0.1"
+dagster-dbt = "^0.14.8"
+dbt-bigquery = "^1.0.0"
 
 [tool.poetry.dev-dependencies]
 
